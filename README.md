@@ -28,11 +28,10 @@ Login_System/
 ├── README.md
 │
 ├── modules/
-│   ├── __init__.py
-│   ├── signup.py
-│   ├── login.py
+│   ├── __init__/
+│   ├── login_signup.py
 │   ├── exception_handling.py
-│   └── ...
+│
 │
 └── requirements.txt
 ```
