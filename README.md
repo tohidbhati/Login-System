@@ -436,8 +436,8 @@ This project is licensed under the MIT License.
 
 Cybersecurity Enthusiast | Python Developer | Web Application Security Learner
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
+- GitHub: https://github.com/tohidbhati
+- LinkedIn: https://linkedin.com/in/tohidbhati786
 
 ---
 
