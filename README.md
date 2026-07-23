@@ -28,12 +28,8 @@ Login_System/
 ├── README.md
 │
 ├── modules/
-│   ├── __init__/
 │   ├── login_signup.py
 │   ├── exception_handling.py
-│
-│
-└── requirements.txt
 ```
 
 ---
@@ -82,14 +78,8 @@ source venv/bin/activate
 
 ## 3. Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-or
-
-```bash
-pip install mysql-connector-python
+There are only libraries that are required to install [If You Do Not Have Them]
+pip install mysql hashlib, 
 ```
 
 ---
