@@ -234,27 +234,21 @@ Responsible for
 
 ---
 
-## signup.py
+## login_signup.py
 
 Responsible for
 
+## def signup()
 - Collecting user information
 - Validation
 - Password hashing
 - Database insertion
-
----
-
-## login.py
-
-Responsible for
-
+## def login()
 - Username verification
 - Password verification
 - User authentication
 
 ---
-
 ## exception_handling.py
 
 Contains custom exceptions.
