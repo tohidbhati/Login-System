@@ -119,7 +119,7 @@ CREATE TABLE user_data (
     gender CHAR(1) NOT NULL,
     contact VARCHAR(15) NOT NULL,
     username VARCHAR(50) UNIQUE NOT NULL,
-    hashed VARCHAR(64) NOT NULL
+    password_hash VARCHAR(64) NOT NULL
 );
 ```
 
